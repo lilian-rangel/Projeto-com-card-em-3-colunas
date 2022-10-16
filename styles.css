@@ -1,0 +1,11 @@
+.cabecalho {
+    margin-top: 10px;
+    text-align: center;
+    color: black;
+    font-size: 36px;
+}
+
+.container {
+    display: flex;
+    align-content: center;
+}
