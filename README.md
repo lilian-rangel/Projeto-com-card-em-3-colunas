@@ -7,4 +7,4 @@ Eu escolhi criar uma página com elemento de 3 cards em colunas - aproveitei par
 *Tivemos uma diminuição do tempo para simular a vida real, então tenho apenas 6 dias para entregar o projeto minimamente funcional.<br /> 
 Escolhi usar **HTML** e **CSS** nesse primeiro desafio pois são os que tenho um pouco mais de familiaridade. <br />
 <hr>
-Vocês podem conferir a página <aqui>(https://lilian-rangel.github.io/Projeto-com-card-em-3-colunas/).
+Vocês podem conferir a página aqui (https://lilian-rangel.github.io/Projeto-com-card-em-3-colunas/).
