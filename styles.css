@@ -50,11 +50,12 @@ h3 {
     
 }
 
-#titulo{
+#titulo {
     font-weight: bold;
     margin-bottom: 5px;
     color: #800000;
     text-align: center;
+    font-size: 2rem;
 
 }
 .frontEnd_descricao {
@@ -143,7 +144,7 @@ margin-bottom: 10px;
 /* Front end */
 
 .paragrafos_paginas {
-    padding: 5rem;
+    padding: 3rem;
     border: 30px;
     margin: 10px;
     font-weight: 400;
@@ -175,6 +176,41 @@ margin-bottom: 10px;
     text-decoration: underline;
 }
 
-@media screen {
-    
+
+/*medias querys*/
+
+@media screen and (max-width: 768px) {
+    .container{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 100%;
+        height: auto;
+    }
+    .cabecalho{
+        font-size: 1rem;
+    }
+    .frontEnd_img, .backEnd_img, .fullStack_img {
+        size: 100%;
+    }
+    .img_cabecalho{
+        width: 100%;
+        height: 200px;
+    }
+    .videos_paginas {
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        size: auto;
+    }
+    .paragrafos_paginas {
+        padding: 2rem;
+    }
+
+    .conteudo_front, .conteudo_back, .conteudo_full, .titulo {
+        display: block;
+        flex-direction: row;
+        flex-wrap: wrap;
+        font-size: 1rem;
+    }
 }
