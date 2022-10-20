@@ -12,7 +12,7 @@ h1 {
 
 h3 {
     padding: 1rem;
-    margin-bottom: 20px;
+    margin-bottom: 0;
     color: #800000;
 }
 .cabecalho {
@@ -134,7 +134,7 @@ margin-bottom: 10px;
 }
 
 .img_cabecalho {
-    padding: 2rem;
+    padding: 0rem;
     width: 100%;
     height: 400px;
     background-repeat: repeat;
@@ -168,9 +168,10 @@ margin-bottom: 10px;
 
 /*voltar pagina*/
 .voltar_pagina {
+    font-size: 1rem;
     text-decoration: none;
     padding: 0 5rem;
-    text-align: left;
+    text-align: center;
 }
 .voltar_pagina:hover {
     text-decoration: underline;
@@ -178,6 +179,18 @@ margin-bottom: 10px;
 
 
 /*medias querys*/
+/*@media screen and (max-width: 560px) {
+    .videos_paginas{
+        display: block;
+        padding: 0;
+        border: 0;
+        margin: 0;
+        width: 100%;
+        height: 100%;
+        box-sizing: border-box;
+
+    }
+}*/
 
 @media screen and (max-width: 768px) {
     .container{
@@ -186,31 +199,48 @@ margin-bottom: 10px;
         flex-wrap: wrap;
         width: 100%;
         height: auto;
+        padding: 0;
+        margin: 0;
     }
     .cabecalho{
         font-size: 1rem;
+        margin-bottom: 0;
     }
+    #titulo {
+        display: block;
+        margin-top: 5px;
+        font-size: 1.5rem;
+        justify-content: center;
+    }
+    .chamada_video {
+        display: block;
+        margin-top: 5px;
+        font-size: 1rem;
+        justify-content: center;
+    }
+    .frontEnd, .backEnd, .fullStack {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
     .frontEnd_img, .backEnd_img, .fullStack_img {
         size: 100%;
     }
     .img_cabecalho{
+        padding: 0;
+        border: 0;
         width: 100%;
         height: 200px;
     }
-    .videos_paginas {
-        display: flex;
-        align-content: center;
-        justify-content: center;
-        size: auto;
-    }
+    
     .paragrafos_paginas {
-        padding: 2rem;
+        padding: 0.5rem;
+        margin: 0;
     }
 
-    .conteudo_front, .conteudo_back, .conteudo_full, .titulo {
-        display: block;
+    .conteudo_front, .conteudo_back, .conteudo_full {
+        display: flex;
         flex-direction: row;
         flex-wrap: wrap;
-        font-size: 1rem;
     }
 }
