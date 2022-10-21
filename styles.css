@@ -29,8 +29,7 @@ h3 {
     align-content: center;
     margin: 20px 20px 40px 20px;
     height: 600px;
-    padding: 1rem 2rem;    
-    
+    padding: 1rem 2rem;        
 }
 
 .frontEnd {
@@ -46,8 +45,7 @@ h3 {
     height: 300px;
     border-radius: 40%;
     align-self: center;
-    justify-self: center;
-    
+    justify-self: center;    
 }
 
 #titulo {
@@ -56,8 +54,8 @@ h3 {
     color: #800000;
     text-align: center;
     font-size: 2rem;
-
 }
+
 .frontEnd_descricao {
     padding: 5px;
     margin-bottom: 10px;
@@ -67,7 +65,6 @@ h3 {
     text-decoration: none;
     color: #800000;
     transition: all .1s ease-in-out;
-
 }
 
 .botao:hover {
@@ -75,8 +72,6 @@ h3 {
     cursor: pointer; 
     color: #620404;
     transform: scale(1.2);
-
-
 }
 
 .backEnd {
@@ -177,20 +172,14 @@ margin-bottom: 10px;
     text-decoration: underline;
 }
 
-
 /*medias querys*/
-/*@media screen and (max-width: 560px) {
+@media screen and (max-width: 560px) {
     .videos_paginas{
-        display: block;
-        padding: 0;
-        border: 0;
-        margin: 0;
-        width: 100%;
-        height: 100%;
-        box-sizing: border-box;
-
+        display: flex;
+       max-width: 100%;
+       height: auto;
     }
-}*/
+}
 
 @media screen and (max-width: 768px) {
     .container{
