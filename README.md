@@ -18,9 +18,9 @@ Tarefa da semana: entregar um projeto novo em 7 dias. <br />
 
 <h3 align="center">Página inicial responsiva </h3>
 <div display="flex" flex-direction:"row">
-<img width="33%" src="https://user-images.githubusercontent.com/105670314/197260564-fe588a97-4b60-4259-b930-85dbf4ab6b6e.png">
-<img width="33%" display="flex" src="https://user-images.githubusercontent.com/105670314/197260704-89c7086b-0ce6-40d1-886a-aa938b4b5cec.png">
-<img width="33%" src="https://user-images.githubusercontent.com/105670314/197260732-e9878f28-7313-46f4-8556-250d14204673.png">
+<img width="30%" src="https://user-images.githubusercontent.com/105670314/197260564-fe588a97-4b60-4259-b930-85dbf4ab6b6e.png">
+<img width="30%" display="flex" src="https://user-images.githubusercontent.com/105670314/197260704-89c7086b-0ce6-40d1-886a-aa938b4b5cec.png">
+<img width="30%" src="https://user-images.githubusercontent.com/105670314/197260732-e9878f28-7313-46f4-8556-250d14204673.png">
 </div>
 <h3 align="center">Páginas de conteúdo responsivas</h3>
 <div display="flex" flex-direction:"row">
