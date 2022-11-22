@@ -1,18 +1,22 @@
-# Projeto-com-card-em-3-colunas
-Primeiro projeto da mentoria "Conquiste sua vaga"
+<h1 align="center"> Projeto card em 3 colunas </h1>
+<p>Primeiro projeto da mentoria "Conquiste sua vaga".</p>
 
-Tarefa da semana: entregar um projeto novo em 7 dias. <br />
-<i>Tivemos uma diminuição do tempo para simular a vida real, então tenho apenas 6 dias para entregar o projeto minimamente funcional. </i><br />
-
-<b>Projeto: criação de uma página com elemento de 3 cards em colunas </b> <br />
- 
-<b>Desenvolvido com </b>
+<hr>
+<h2 align="center">Aprendizados nesse projeto 🎯</h2>
+Aprender como escolher um projeto, a dar prazos (entregar um projeto novo em 7 dias) e vivenciarmos o dia a dia mais realista de um desenvolvedor ao lidar com mudança de estimativa de tempo por parte do cliente (6 dias para entregar o projeto minimamente funcional).<br> 
+Fortaleci conhecimentos de HTML, CSS e grid layout.<br>
+<hr>
+<h2 align="center">Tecnologias utilizadas 🛠</h2><br> 
 <img src="https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
+
 <hr>
-<a href="https://lilian-rangel.github.io/Projeto-com-card-em-3-colunas/" target="_blank">Link para página</a>
+<h2 align="center">Deploy 👨🏽‍💻</h2>
+<a href="https://lilian-rangel.github.io/Projeto-com-card-em-3-colunas/" target="_blank">Confira a página nesse link</a>
 <hr>
-<h2 align="center"> Página inicial </h2>
+
+<h2 align="center">Prints das páginas</h2>
+<h3 align="center"> Página inicial </h3>
 <br />
 <img src="https://user-images.githubusercontent.com/105670314/197259504-ef2f89a2-5508-492c-b3ee-fd8ab339e540.png">
 
