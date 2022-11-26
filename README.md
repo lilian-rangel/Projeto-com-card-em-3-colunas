@@ -38,3 +38,18 @@ Fortaleci conhecimentos de HTML, CSS e grid layout.<br>
 <img width="45%" src="https://user-images.githubusercontent.com/105670314/197264970-1942f5a2-5ecb-4f7d-93cd-b4b41bac01a6.png">
 </div>
 
+<hr>
+<h2 align="center"> Contributor 💻</h2>
+<table align="center">
+<tbody>
+<tr>
+<td align="center">
+<img src="https://avatars.githubusercontent.com/u/105670314?v=4" width="100px;" alt="Lilian Rangel" style="max-width: 100%;"><br><b>Lílian Rangel</b>
+<br>
+<a href="https://www.linkedin.com/in/lilian-rangel-de-paiva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/lilian-rangel"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+
+</td>
+</tr>
+</tbody>
+</table>
